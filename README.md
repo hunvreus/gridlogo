@@ -29,6 +29,10 @@ http://127.0.0.1:5173/
 pnpm build
 ```
 
+## Deploy
+
+Deployment is documented in [docs/devops.md](docs/devops.md). The configured target is Cloudflare Pages.
+
 ## Features
 
 - Infinite-feeling grid canvas
